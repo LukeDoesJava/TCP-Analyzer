@@ -2,7 +2,10 @@
 ### By: Luke Edwards
 ### Date: 2024-09-27
 
-## General
+## Summary
+This project is meant to showcase my skills using python and knowledge of HTTP/HTTPS/TCP connections in order to disect packet data and connection history via a capfile.
+The program is meant to represent a Wireshark-esc program, moreso focusing on catagorizing connections and associating their packets.
+
 ## Table of Contents
 1. [General](#general)
 2. [Installation](#installation)
