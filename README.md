@@ -1,6 +1,5 @@
-# Assignment 1: WebTester.py
+# TCP Connection Analyzer (Wireshark clone)
 ### By: Luke Edwards
-### V#: V01007316
 ### Date: 2024-09-27
 
 ## General
@@ -58,7 +57,7 @@ Directory should look like the following:
 
 3. Run the file using the following format:
 ```
-python3 tcp_shark.py '<.cap file>'
+python3 tcp_shark.py <.cap file>
 ```
 Note, <.cap file> should be replaced with the cap file you are trying to test.
 
