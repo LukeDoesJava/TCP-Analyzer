@@ -13,7 +13,6 @@
 6. [Input and Output expectations](#input-and-output-expectations)
     1. [Input](#input)
     2. [Output](#output)
-7. [Functions](#functions)
 
 ## Installation
 ### Prerequisites
